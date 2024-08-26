@@ -1,11 +1,8 @@
-import React from 'react';
+import React from "react";
 
 const Home = () => {
   return (
-    <div>
-      <h1 className="text-3xl font-semibold text-gray-800">Home</h1>
-      <p>Welcome to the home page!</p>
-    </div>
+    <div className="bg-white rounded-[30px] p-5 w-[calc(100%-264px)]"></div>
   );
 };
 
